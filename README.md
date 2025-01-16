@@ -26,11 +26,4 @@
 <br>
 <hr>
 
-<div style="text-align: center;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=asouier&show_icons=true&locale=en" alt="asouier" style="max-width: 50%;"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asouier&" alt="asouier" style="max-width: 50%;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asouier&show_icons=true&locale=en&layout=compact" alt="asouier" />
-
-</div>
 
